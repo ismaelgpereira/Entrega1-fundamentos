@@ -14,7 +14,7 @@
 
 ### Opção 1 — GitHub Pages
 Acesse o link público:
-https://github.com/ismaelgpereira/Entrega1-fundamentos
+[https://github.com/ismaelgpereira/Entrega1-fundamentos](https://ismaelgpereira.github.io/Entrega1-fundamentos/)
 
 
 ### Opção 2 — Localmente
